@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m A discord and Minecraft Developer
 - 📫 How to reach me : https://discord.gg/vjdCbBkDuj
-- discord Id :  !                  ΉΣɩӨBɩӨИΣ€,€#8214
+- discord Id :  !Σ҉        ΉΣɩӨBɩӨИΣ€,€ ZєRᎧ ᴹᴸᴴ#8214
 
 <!---
 HEROBRINEyashar/HEROBRINEyashar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
