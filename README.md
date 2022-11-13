@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HEROBRINEyashar&theme=algolia" alt="TheWylot" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HEROBRINEyashar&theme=algolia" alt="HEROBRINEyashar" /></p>
 
 
 ## 📊 Github Stats
