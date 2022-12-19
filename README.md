@@ -4,6 +4,11 @@
 - 📫 How to reach me : https://discord.gg/vjdCbBkDuj
 - discord Id :  !Σ҉        ΉΣɩӨBɩӨИΣ€,€ ZєRᎧ ᴹᴸᴴ#8214
 
+## Connect with me  
+<div align="center">
+<img src="https://discord.c99.nl/widget/theme-2/773798308249731112.png" align="center" height="" width="" />
+</div>
+
 <!---
 HEROBRINEyashar/HEROBRINEyashar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
